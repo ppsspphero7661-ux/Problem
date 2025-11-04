@@ -4,12 +4,5 @@
     "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
     "background_color": "#FF0000"
   },
-  "credentials": [
-    {
-      "username": "Problem",
-      "password": "Pro",
-      "expire_date": "2025-11-05",
-      "device_limit": 1
-    }
-  ]
+  "credentials": []
 }
